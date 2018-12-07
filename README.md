@@ -12,7 +12,7 @@
 
 [javanet.zip](/javanet.zip) 是该仓库位于2018-12-05 14:52时刻的带 .git 的压缩包。
 
-将 test_ed_403.txt 进行 zDecrypt 后可以得到两个图片的链接：
+将 test_ed_403.txt 进行 [zDecrypt](./zDecrypt/) 后可以得到两个图片的链接：
 - [\[exe\](疑似病毒样本)](http://r.photo.store.qq.com/psb?/V11qYOpE2pevVa/ZVQb4ku57Vu9D*s16F.kIE3F4BN.8oN4wo8i1Njxnvs!/r/dFQBAAAAAAAA)
 - [\[dll\](libcef.dll)](http://r.photo.store.qq.com/psb?/V11qYOpE2pevVa/NIGexUTTQqLwqz3yrQ*I6OwKOUh4ntdZHHi8xoQqNbQ!/r/dFIBAAAAAAAA)
 
